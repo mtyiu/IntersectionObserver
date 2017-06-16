@@ -1,11 +1,11 @@
 {
-  "name": "intersection-observer",
+  "name": "intersection-observer-patch",
   "version": "0.3.0",
   "description": "A polyfill for IntersectionObserver",
   "main": "intersection-observer",
   "repository": {
     "type": "git",
-    "url": "git@github.com:WICG/IntersectionObserver.git"
+    "url": "git@github.com:mtyiu/IntersectionObserver.git"
   },
   "keywords": [
     "Intersection",
@@ -18,6 +18,6 @@
   },
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/WICG/IntersectionObserver/issues"
+    "url": "https://github.com/mtyiu/IntersectionObserver/issues"
   }
 }
